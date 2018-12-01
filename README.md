@@ -93,3 +93,5 @@ Note: You can use I/O java for the usedCard List instead of initialize the whole
 ## Contributing
   my roomate - Ashwin- for the idea and the math on the problem
 
+##Author
+  Long Phan 
