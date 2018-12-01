@@ -1,4 +1,4 @@
-# Custom Voting 
+# De Bruijn Card Trick
 
 This project is call de Bruijn Card Trick which will create a "magic trick". You will arrange the the card deck in the order similiar to
 the order in UsedDeck.txt file. Then you will ask the player to cut a deck in random position. Next you will take the 6 simulataneous card
