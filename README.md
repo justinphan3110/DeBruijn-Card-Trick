@@ -1,7 +1,7 @@
 # De Bruijn Card Trick
 
 This project is call de Bruijn Card Trick which will create a "magic trick". You will arrange the the card deck in the order similiar to
-the order in UsedDeck.txt file. Then you will ask the player to cut a deck in random position. Next you will take the 6 simulataneous card
+the order in UsedDeck.txt file. Then you will ask the player to cut a deck in random position. Next you will take out the 6 simultaneous card
 from the deck. 
 
 You will then ask the player to tell you only the COLOR of this 6-card. Then you will enter Black as 0, Red as 1 in the input window in this
