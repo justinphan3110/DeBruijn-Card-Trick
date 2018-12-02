@@ -24,7 +24,7 @@ To modify my code, you only need basic knowledge of Java and Data Structures(Lis
 ### Installing
 
 To start the program, there is 3 ways:
-1. simply open cmd and type java -jar link-to-jar\DeBruijnCardTrick.jar
+1. Run the DeBruijnCardTrick.jar
 2. Run the DeBruijnCardTrick.exe (prefered)
 3. download the class CustomVoting and Candidate (remember to modify the package) and run it in a new project in IDE.
 
