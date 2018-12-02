@@ -95,5 +95,5 @@ Note: You can use I/O java for the usedDeck List instead of initialize the whole
 ## Contributing
   my roomate - Ashwin- for the idea and the math on the problem
 
-##Author
+## Author
   Long Phan 
