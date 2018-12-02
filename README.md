@@ -65,12 +65,12 @@ You should see a new window pops up
 
   
   In this cased I will set up the orginal Deck which consisted of the full 52-cards in order first and then I will assign the 
-  separated usedCard List for the game which only add elements from the Original List
+  separated usedDeck List for the game which only add elements from the Original List
   
   ![image](https://user-images.githubusercontent.com/44376091/49333647-99d88600-f590-11e8-843a-c99d83b294d8.png)
 
 
-Note: You can use I/O java for the usedCard List instead of initialize the whole list again
+Note: You can use I/O java for the usedDeck List instead of initialize the whole list again
 
  I will then set up a LinkedHashMap (which is better than HaspMap in this case because it will print the elements in insertion order - 
  FIFO). The LinkedHashMap will included the key as the 47 6-element-substrings we get from the de Bruijn arbitrary sequence
