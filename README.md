@@ -19,7 +19,7 @@ Click enter you will get the result as
 
 ### Prerequisites
 
-To modify my code, you only need basic knowledge of Java and Data Structures(Lists, HashMap, and I/O) and JavaFX ( in this code, the graphics were made mainly from JavaFX Dialog)
+To modify my code, you only need basic knowledge of Java and Data Structures(Lists, HashMap, LinkedHashMap, and I/O) and JavaFX ( in this code, the graphics were made mainly from JavaFX Dialog)
 
 ### Installing
 
@@ -41,7 +41,8 @@ You should see a new window pops up
   1 or 0. You can use a program online at
   [de Bruijn arbitrary sequences](http://www.hakank.org/comb/debruijn_arb.cgi)
   
-  In which you will type in the N as 52 as there are 52 cards in the deck and 2 as the Base
+  In which you will type in the N as 52 as there are 52 cards in the deck and 2 as the Base because we only need BLACK and RED
+  (0 and 1 respectively) for this magic trick
   
   ![image](https://user-images.githubusercontent.com/44376091/49333624-f6877100-f58f-11e8-924c-8838d195d3a8.png)
 
