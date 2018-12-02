@@ -31,7 +31,8 @@ To start the program, there is 3 ways:
 You should see a new window pops up
 
 
-![image](https://user-images.githubusercontent.com/44376091/49333565-05215880-f58f-11e8-9396-38fb0c3c851e.png)
+![image](https://user-images.githubusercontent.com/44376091/49334707-53902080-f5aa-11e8-840d-d88a2d69eb13.png)
+
 
 
 ### Code
