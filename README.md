@@ -36,7 +36,13 @@ You should see a new window pops up
 
 
 ### Code
+ [a De Bruijn sequence of order n on a size-k alphabet A is a cyclic sequence in which every possible length-n string on A occurs exactly once as a substring. ](https://en.wikipedia.org/wiki/De_Bruijn_sequence) Look at the picture for easier understanding how the sequence work
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/44376091/49381585-41b19900-f6e2-11e8-952c-aef3afac2119.png)
 
+  
+  
   I generate a arbitary sequence included only Binary Number (0 and 1) base on de Bruijn's to create uniques sequence of 2 consisted only
   1 or 0. You can use a program online at
   [de Bruijn arbitrary sequences](http://www.hakank.org/comb/debruijn_arb.cgi)
