@@ -125,7 +125,7 @@ public class DeBruijnCardTrick extends Application {
 	}
 
 	public static void setUsedDeck() {
-		//// Set the usedDeck
+		//// Set the usedDeck according to the usedDeck.txt, you can use java I/O for a more efficiency way(BufferedReader)
 		usedDeck.add(orginalDeck.get(41));
 		usedDeck.add(orginalDeck.get(0));
 		usedDeck.add(orginalDeck.get(40));
