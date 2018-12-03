@@ -60,10 +60,7 @@ You should see a new window pops up
   ![image](https://user-images.githubusercontent.com/44376091/49333642-6b5aab00-f590-11e8-8dfc-8c97c8a34c3d.png)
 
   
-  We will initilize the sequence we will use first:
-  
-  ![image](https://user-images.githubusercontent.com/44376091/49333676-37cc5080-f591-11e8-812a-205480c7dc8a.png)
-
+ 
   
   In this cased I will set up the orginal Deck which consisted of the full 52-cards in order first and then I will assign the 
   separated usedDeck List for the game which only add elements from the Original List
